@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480677683263",
+    "firebase_url": "https://projectimp-27ce1-default-rtdb.firebaseio.com",
+    "project_id": "projectimp-27ce1",
+    "storage_bucket": "projectimp-27ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480677683263:android:2aa16fd33b7d0a175f988a",
+        "android_client_info": {
+          "package_name": "com.example.booksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480677683263-p245npkupa5bdutvifmeb83tq4msppf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnrJGT2if5P_kBqkEhzZq2ksa4aTbeac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480677683263-p245npkupa5bdutvifmeb83tq4msppf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
